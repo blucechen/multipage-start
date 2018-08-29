@@ -80,8 +80,8 @@ new Vue({
 ```
 
 #### 参考文章
-> [使用Vue-cli搭建多页面时对项目结构和配置的调整](https://www.jianshu.com/p/0a30aca71b16)
-> [简单构建ThinkJS+Vue2.0前后端分离的多页应用](https://www.h5jun.com/post/thinkjs-vue2.0-build.html)
+- [使用Vue-cli搭建多页面时对项目结构和配置的调整](https://www.jianshu.com/p/0a30aca71b16)
+- [简单构建ThinkJS+Vue2.0前后端分离的多页应用](https://www.h5jun.com/post/thinkjs-vue2.0-build.html)
 
 
 
